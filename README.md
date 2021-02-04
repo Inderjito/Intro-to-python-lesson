@@ -2,14 +2,14 @@
 
 ## In this class I learned this following modules
 
-- 1. **Basic
+- 1. **Basic**
     - Types &  variables
     - Types Functions
     - Input
     - Quote display & Boolean
     - String Formatting & "in" Keyword
     
-2.  **Input
+2.  **Input**
     - input() - gathering  user input
     - print() formatting
     - quotes inside strings
@@ -17,14 +17,14 @@
     - string formatting methods
     - Boolean in keywords
     
-3. **Conditionals
+3. **Conditionals**
     - compare operation
     - string comparion
     - condition elif and casting
     - math operation
     - conditional pratice
     
-4. **Nesting and Loops
+4. **Nesting and Loops**
     -  nested conditional
     - escape sequence
     - while loop and incrementing
